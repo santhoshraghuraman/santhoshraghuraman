@@ -7,7 +7,7 @@
 <a href="https://santhosh-portfolio-gamma.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" />
 </a>
-<a href="#"><!-- LinkedIn URL not yet provided — replace href="#" above with your profile link -->
+<a href="https://www.linkedin.com/in/santhosh-0407rv?utm_source=share_via&utm_content=profile&utm_medium=member_android"><!-- LinkedIn URL not yet provided — replace href="#" above with your profile link -->
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" />
 </a>
 <a href="https://github.com/santhoshraghuraman">
