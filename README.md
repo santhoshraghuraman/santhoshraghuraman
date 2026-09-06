@@ -113,7 +113,7 @@ Multi-agent RAG pipeline assisting research workflows — retrieval, synthesis, 
 - Session memory across multi-step queries
 - Streamlit interface with cloud-based document upload/retrieval
 
-*Repository link pending — add once the SciPilot repo is public.*
+[![Repo](https://img.shields.io/badge/View%20Repository-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/santhoshraghuraman/SciPilot)
 
 </td>
 <td width="50%" valign="top">
