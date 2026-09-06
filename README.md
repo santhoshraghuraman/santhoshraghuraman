@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:58A6FF&height=220&section=header&text=SANTHOSH%20R&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20|%20Backend%20&%20GenAI%20Developer&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%" alt="Santhosh R banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,35:132743,65:1B2A4A,100:2C4770&height=220&section=header&text=SANTHOSH%20R&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20|%20Backend%20&%20GenAI%20Developer&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%" alt="Santhosh R banner" />
 
 <br/>
 
 <a href="https://santhosh-portfolio-gamma.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/<!-- TODO: your-linkedin-handle -->">
+<a href="#"><!-- LinkedIn URL not yet provided — replace href="#" above with your profile link -->
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" />
 </a>
 <a href="https://github.com/santhoshraghuraman">
@@ -113,7 +113,7 @@ Multi-agent RAG pipeline assisting research workflows — retrieval, synthesis, 
 - Session memory across multi-step queries
 - Streamlit interface with cloud-based document upload/retrieval
 
-[![Repo](https://img.shields.io/badge/View%20Repository-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/santhoshraghuraman/<!-- TODO: SciPilot-repo-name -->)
+*Repository link pending — add once the SciPilot repo is public.*
 
 </td>
 <td width="50%" valign="top">
@@ -181,19 +181,33 @@ LSB-based steganography for images and video with an AI-powered speech-to-text c
 ## Experience
 
 **AI Intern** — IBM SkillsBuild × AICTE × Edunet Foundation *(June 2026 – July 2026)*
-Built SciPilot, an agentic RAG research assistant, using LangChain, LangFlow, FAISS, IBM watsonx.ai, and IBM Granite, with a Streamlit interface and IBM Cloud Object Storage integration.
+- Built SciPilot, an agentic RAG research assistant
+- Used LangChain, LangFlow, and FAISS for the retrieval/synthesis pipeline
+- Integrated IBM watsonx.ai and IBM Granite models
+- Built a Streamlit interface with IBM Cloud Object Storage integration
 
 **Freelance Software Developer** *(2024 – Present)*
-Delivered ~5 web development projects (e-commerce, business, and portfolio sites) for 4–5 clients using Python, JavaScript, FastAPI, Git/GitHub, Vercel, and Supabase — including the Reliable Vision CRM foundation above.
+- Delivered ~5 web development projects for 4–5 clients (e-commerce, business, and portfolio sites)
+- Built with Python, JavaScript, FastAPI, Git/GitHub, Vercel, and Supabase
+- Includes the Reliable Vision CRM foundation (featured above)
 
 <br/>
 
 ## 🏆 Publication & Intellectual Property
 
-**Published Indian Patent** — *Co-Inventor*
+<table>
+<tr>
+<td>
 
-> **System and Method for Victim-Side Detection and Attribution of SMS and Call Bombing Attacks**
-> Publication No. **IN202641067193 A1**
+**📄 Published Indian Patent** — *Co-Inventor*
+
+**System and Method for Victim-Side Detection and Attribution of SMS and Call Bombing Attacks**
+
+`Publication No. IN202641067193 A1`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -213,21 +227,12 @@ Sharpening Data Structures & Algorithms, problem solving, Python, and core CS fu
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=santhoshraghuraman&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=santhoshraghuraman&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=8957E5&currStreakLabel=58A6FF" height="165" alt="GitHub streak" />
-</div>
-
-<br/>
-
 ## Connect
 
 <div align="center">
 
 <a href="https://santhosh-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/<!-- TODO: your-linkedin-handle -->"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="#"><!-- LinkedIn URL not yet provided — replace href="#" above with your profile link --><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn" /></a>
 <a href="https://github.com/santhoshraghuraman"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
 <a href="https://leetcode.com/u/Santhosh191204/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117" alt="LeetCode" /></a>
 
