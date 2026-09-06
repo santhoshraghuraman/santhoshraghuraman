@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b2a4a,100:58a6ff&height=220&section=header&text=SANTHOSH%20R&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%26%20GenAI%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%" alt="Santhosh R banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:58A6FF&height=220&section=header&text=SANTHOSH%20R&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20|%20Backend%20&%20GenAI%20Developer&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%" alt="Santhosh R banner" />
 
 <br/>
 
@@ -217,7 +217,7 @@ Sharpening Data Structures & Algorithms, problem solving, Python, and core CS fu
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=santhoshraghuraman&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshraghuraman&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=8957E5&currStreakLabel=58A6FF" height="165" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=santhoshraghuraman&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=8957E5&currStreakLabel=58A6FF" height="165" alt="GitHub streak" />
 </div>
 
 <br/>
