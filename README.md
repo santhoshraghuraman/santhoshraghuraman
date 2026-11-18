@@ -10,7 +10,7 @@
 
   <!-- Animated professional wave banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:081B2C,35:075985,70:0891B2,100:06B6D4&text=Santhosh%20Raghuraman&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20APPLIED%20AI&descSize=15&descAlignY=58&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:081B2C,35:075985,70:0891B2,100:06B6D4&text=Santhosh%20R&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20APPLIED%20AI&descSize=15&descAlignY=58&animation=twinkling"
     width="100%"
     alt="Santhosh R - Software Engineering, Backend and Applied AI"
   />
