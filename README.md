@@ -4,43 +4,61 @@
 <!-- ===================================================== -->
 
 
-<!-- ==================== PROFILE HEADER ==================== -->
+<!-- ===================== PROFILE HEADER ===================== -->
 
 <div align="center">
 
+  <!-- Animated professional wave banner -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1400&color=36BCF7&center=true&vCenter=true&width=900&height=120&lines=Hi%2C+I'm+Santhosh+Raghuraman;Graduate+Software+Engineer+in+the+Making;Backend+%7C+Full-Stack+%7C+Applied+AI;Building+Reliable+Software+That+Solves+Real+Problems"
-    alt="Hi, I'm Santhosh Raghuraman — Backend, Full-Stack and Applied AI Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:081B2C,35:075985,70:0891B2,100:06B6D4&text=Santhosh%20Raghuraman&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20APPLIED%20AI&descSize=15&descAlignY=58&animation=twinkling"
+    width="100%"
+    alt="Santhosh R - Software Engineering, Backend and Applied AI"
+  />
+
+  <!-- Animated typing introduction -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I'm+Santhosh+Raghuraman;Graduate+Software+Engineer+in+the+Making;Backend+%7C+Full-Stack+%7C+Applied+AI;Building+Reliable+Software+That+Solves+Real+Problems"
+    alt="Hi, I'm Santhosh R - Graduate Software Engineer in the Making - Backend, Full-Stack and Applied AI"
   />
 
   <br/>
 
-  <strong>Integrated M.Tech Software Engineering Student</strong>
-  <br/>
-  VIT Vellore · Class of 2027
+  **Integrated M.Tech Software Engineering Student | VIT Vellore**
 
   <br/><br/>
 
+  <!-- Professional profile links -->
+
   <a href="https://santhosh-portfolio-gamma.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-VISIT-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Visit Portfolio"
+    />
   </a>
   <a href="https://www.linkedin.com/in/santhosh-0407rv/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
+    />
   </a>
   <a href="mailto:santhosh.rv.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Contact by Email"
+    />
   </a>
   <a href="https://leetcode.com/u/Santhosh191204/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img
+      src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode Profile"
+    />
   </a>
 
 </div>
 
-<br/>
+<!-- =================== END PROFILE HEADER =================== -->
 
 ---
-<!-- ==================== END PROFILE HEADER ==================== -->
-
 ---
 
 ## 👨‍💻 About Me
