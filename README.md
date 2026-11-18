@@ -12,7 +12,7 @@
 
   <br/>
 
-  **Integrated M.Tech Software Engineering Student · VIT Vellore**
+  **Integrated M.Tech Software Engineering Student | VIT Vellore**
 
   <br/>
 
