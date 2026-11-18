@@ -6,7 +6,7 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Santhosh+Raghuraman;Graduate+Software+Engineer+in+the+making;Backend+%7C+Full-Stack+%7C+Applied+AI;Building+reliable+software+that+solves+real+problems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Santhosh+R;Graduate+Software+Engineer+in+the+making;Backend+%7C+Full-Stack+%7C+Applied+AI;Building+reliable+software+that+solves+real+problems"
     alt="Typing introduction"
   />
 
