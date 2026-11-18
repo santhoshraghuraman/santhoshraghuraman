@@ -3,21 +3,26 @@
 <!--                    HEADER / BANNER                    -->
 <!-- ===================================================== -->
 
+
+<!-- ==================== PROFILE HEADER ==================== -->
+
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Santhosh+R;Graduate+Software+Engineer+in+the+making;Backend+%7C+Full-Stack+%7C+Applied+AI;Building+reliable+software+that+solves+real+problems"
-    alt="Typing introduction"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1400&color=36BCF7&center=true&vCenter=true&width=900&height=120&lines=Hi%2C+I'm+Santhosh+Raghuraman;Graduate+Software+Engineer+in+the+Making;Backend+%7C+Full-Stack+%7C+Applied+AI;Building+Reliable+Software+That+Solves+Real+Problems"
+    alt="Hi, I'm Santhosh Raghuraman — Backend, Full-Stack and Applied AI Developer"
   />
 
   <br/>
 
-  **Integrated M.Tech Software Engineering Student | VIT Vellore**
-
+  <strong>Integrated M.Tech Software Engineering Student</strong>
   <br/>
+  VIT Vellore · Class of 2027
+
+  <br/><br/>
 
   <a href="https://santhosh-portfolio-gamma.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/santhosh-0407rv/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -30,6 +35,11 @@
   </a>
 
 </div>
+
+<br/>
+
+---
+<!-- ==================== END PROFILE HEADER ==================== -->
 
 ---
 
