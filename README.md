@@ -158,32 +158,38 @@ A framework-agnostic TypeScript engine that generates optimized layouts across s
 
 ---
 
+
 ### 4. Reliable Vision — Lead Management Platform
 
-**Client Project · First Milestone**
+**Client project · Milestone 1**
 
-A lead-management application built to streamline spreadsheet-based lead collection and management.
+A CRM-style lead management application that streamlines spreadsheet-based lead intake and record management.
 
-- Implemented Excel/CSV upload, preview and validation.
-- Added duplicate-phone detection within uploaded files and against Supabase records.
-- Built valid-lead import, searchable records and lead-detail views.
-- Developed dashboard statistics for lead management.
+- Supports Excel/CSV upload, preview and row validation.
+- Detects duplicate phone numbers within uploads and against existing Supabase records.
+- Imports valid leads and provides searchable records, lead details and dashboard statistics.
 
-**Tech:** Next.js · TypeScript · Tailwind CSS · Supabase
+**Current scope:** Milestone 1 (Excel → CRM → Supabase). WhatsApp messaging, n8n workflows, Gemini scoring, webhook processing and campaign management are planned extensions, not claimed as implemented.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase
+
+[GitHub Repository](https://github.com/santhoshraghuraman/reliable-vision-automation)
 
 ---
 
 ### 5. Nearva — Local Service Discovery Platform
 
-**Primary Developer**
+**Primary developer**
 
-A hyperlocal service-discovery platform connecting users with local service providers.
+A hyperlocal platform connecting users with nearby service providers.
 
-- Implemented worker registration and admin approval.
-- Built dashboards and service filtering.
-- Added map-based discovery using Leaflet and OpenStreetMap.
+- Implemented worker registration and admin approval workflows.
+- Built service discovery and filtering.
+- Integrated map-based discovery using Leaflet.js and OpenStreetMap.
 
-**Tech:** Python · FastAPI · Supabase · Leaflet.js
+**Stack:** Python · FastAPI · Supabase · Leaflet.js · OpenStreetMap
+
+[GitHub Repository](https://github.com/santhoshraghuraman/nearva) · [Website](https://www.nearva.in/)
 
 ---
 
@@ -201,17 +207,6 @@ A hyperlocal service-discovery platform connecting users with local service prov
 - Delivered 5+ freelance web projects across e-commerce, business and portfolio domains.
 - Built and deployed a document-submission platform with an admin dashboard for Al Madina Consultants.
 - Replaced manual WhatsApp document collection with a structured workflow using FastAPI, Supabase and Cloudinary.
-
----
-
-## 🎓 Education
-
-**Vellore Institute of Technology (VIT), Vellore**
-
-Integrated M.Tech — Software Engineering  
-2022 – 2027 (Expected)
-
-**CGPA:** 7.64 / 10
 
 ---
 
