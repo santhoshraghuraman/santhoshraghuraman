@@ -17,7 +17,7 @@
 
   <!-- Animated typing introduction -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I'm+Santhosh+Raghuraman;Graduate+Software+Engineer+in+the+Making;Backend+%7C+Full-Stack+%7C+Applied+AI;Building+Reliable+Software+That+Solves+Real+Problems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I'm+Santhosh+R;Graduate+Software+Engineer+in+the+Making;Backend+%7C+Full-Stack+%7C+Applied+AI;Building+Reliable+Software+That+Solves+Real+Problems"
     alt="Hi, I'm Santhosh R - Graduate Software Engineer in the Making - Backend, Full-Stack and Applied AI"
   />
 
