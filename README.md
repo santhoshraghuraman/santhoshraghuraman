@@ -38,6 +38,7 @@ I'm an **Integrated M.Tech Software Engineering student at VIT Vellore**, gradua
 - 🤝 Open to Graduate Software Engineer opportunities and meaningful collaborations
 
 
+---
 
 ## 🛠️ Technical Skills
 
@@ -82,6 +83,7 @@ I'm an **Integrated M.Tech Software Engineering student at VIT Vellore**, gradua
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 
+---
 
 ## 🚀 Featured Projects
 
