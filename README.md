@@ -29,32 +29,24 @@
 
   <!-- Professional profile links -->
 
+<p align="center">
   <a href="https://santhosh-portfolio-gamma.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-VISIT-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Visit Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/santhosh-0407rv/">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect on LinkedIn"
-    />
-  </a>
-  <a href="mailto:santhosh.rv.work@gmail.com">
-    <img
-      src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Contact by Email"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/Santhosh191204/">
-    <img
-      src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode Profile"
-    />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+  <a href="mailto:santhosh.rv.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  📍 Vellore, Tamil Nadu, India
+</p>
 
 <!-- =================== END PROFILE HEADER =================== -->
 
