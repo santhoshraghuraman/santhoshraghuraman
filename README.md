@@ -24,7 +24,7 @@
 <!-- =================== END PROFILE HEADER =================== -->
 
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -37,7 +37,7 @@ I'm an **Integrated M.Tech Software Engineering student at VIT Vellore**, gradua
 - 🚀 Developed individual and client-focused projects across software engineering and applied AI
 - 🤝 Open to Graduate Software Engineer opportunities and meaningful collaborations
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -81,7 +81,7 @@ I'm an **Integrated M.Tech Software Engineering student at VIT Vellore**, gradua
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-3776AB?style=flat-square)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -185,6 +185,8 @@ A hyperlocal platform connecting users with nearby service providers.
 [GitHub Repository](https://github.com/santhoshraghuraman/nearva) · [Website](https://www.nearva.in/)
 
 
+
+---
 
 ## 💼 Experience
 
