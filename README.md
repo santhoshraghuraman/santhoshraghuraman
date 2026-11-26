@@ -1,8 +1,6 @@
-
 <!-- ===================================================== -->
 <!--                    HEADER / BANNER                    -->
 <!-- ===================================================== -->
-
 
 <!-- ===================== PROFILE HEADER ===================== -->
 
@@ -21,29 +19,45 @@
     alt="Hi, I'm Santhosh R - Graduate Software Engineer in the Making - Backend, Full-Stack and Applied AI"
   />
 
- <p align="center">
-  <strong>Integrated M.Tech Software Engineering Student | VIT Vellore</strong>
-</p>
+  <p align="center">
+    <strong>Integrated M.Tech Software Engineering Student | VIT Vellore</strong>
+  </p>
 
-<p align="center">
-  <a href="https://santhosh-portfolio-gamma.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/santhosh-0407rv/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/Santhosh191204/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:santhosh.rv.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://santhosh-portfolio-gamma.vercel.app/">
+      <img
+        src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=vercel&logoColor=white"
+        alt="Portfolio"
+      />
+    </a>
 
-<p align="center">
-  📍 Vellore, Tamil Nadu, India
-</p>
+    <a href="https://www.linkedin.com/in/santhosh-0407rv/">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
 
+    <a href="https://leetcode.com/u/Santhosh191204/">
+      <img
+        src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+        alt="LeetCode"
+      />
+    </a>
+
+    <a href="mailto:santhosh.rv.work@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Email"
+      />
+    </a>
+  </p>
+
+  <p align="center">
+    📍 Vellore, Tamil Nadu, India
+  </p>
+
+</div>
 
 <!-- =================== END PROFILE HEADER =================== -->
 
