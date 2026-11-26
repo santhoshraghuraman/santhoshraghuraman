@@ -1,66 +1,29 @@
 <!-- ===================================================== -->
 <!--                    HEADER / BANNER                    -->
 <!-- ===================================================== -->
-
 <!-- ===================== PROFILE HEADER ===================== -->
-
 <div align="center">
-
-  <!-- Animated professional wave banner -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:081B2C,35:075985,70:0891B2,100:06B6D4&text=Santhosh%20R&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20APPLIED%20AI&descSize=15&descAlignY=58&animation=twinkling"
-    width="100%"
-    alt="Santhosh R - Software Engineering, Backend and Applied AI"
-  />
-
-  <!-- Animated typing introduction -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I'm+Santhosh+R;Graduate+Software+Engineer+in+the+Making;Backend+%7C+Full-Stack+%7C+Applied+AI;Building+Reliable+Software+That+Solves+Real+Problems"
-    alt="Hi, I'm Santhosh R - Graduate Software Engineer in the Making - Backend, Full-Stack and Applied AI"
-  />
-
-  <p align="center">
-    <strong>Integrated M.Tech Software Engineering Student | VIT Vellore</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://santhosh-portfolio-gamma.vercel.app/">
-      <img
-        src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=vercel&logoColor=white"
-        alt="Portfolio"
-      />
-    </a>
-
-    <a href="https://www.linkedin.com/in/santhosh-0407rv/">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
-    </a>
-
-    <a href="https://leetcode.com/u/Santhosh191204/">
-      <img
-        src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-        alt="LeetCode"
-      />
-    </a>
-
-    <a href="mailto:santhosh.rv.work@gmail.com">
-      <img
-        src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Email"
-      />
-    </a>
-  </p>
-
-  <p align="center">
-    📍 Vellore, Tamil Nadu, India
-  </p>
-
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:081B2C,35:075985,70:0891B2,100:06B6D4&text=Santhosh%20R&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20APPLIED%20AI&descSize=15&descAlignY=58&animation=twinkling"
+  width="100%"
+  alt="Santhosh R - Software Engineering, Backend and Applied AI"
+/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I'm+Santhosh+R;Graduate+Software+Engineer+in+the+Making;Backend+%7C+Full-Stack+%7C+Applied+AI;Building+Reliable+Software+That+Solves+Real+Problems"
+  alt="Hi, I'm Santhosh R - Graduate Software Engineer in the Making - Backend, Full-Stack and Applied AI"
+/>
+<p align="center"><strong>Integrated M.Tech Software Engineering Student | VIT Vellore</strong></p>
+<p align="center">
+<a href="https://santhosh-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/santhosh-0407rv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Santhosh191204/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="mailto:santhosh.rv.work@gmail.com"><img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+<p align="center">📍 Vellore, Tamil Nadu, India</p>
 </div>
-
 <!-- =================== END PROFILE HEADER =================== -->
 
+---
 ---
 ---
 
