@@ -21,13 +21,9 @@
     alt="Hi, I'm Santhosh R - Graduate Software Engineer in the Making - Backend, Full-Stack and Applied AI"
   />
 
-  <br/>
-
-  **Integrated M.Tech Software Engineering Student | VIT Vellore**
-
-  <br/><br/>
-
-  <!-- Professional profile links -->
+ <p align="center">
+  <strong>Integrated M.Tech Software Engineering Student | VIT Vellore</strong>
+</p>
 
 <p align="center">
   <a href="https://santhosh-portfolio-gamma.vercel.app/">
@@ -47,6 +43,7 @@
 <p align="center">
   📍 Vellore, Tamil Nadu, India
 </p>
+
 
 <!-- =================== END PROFILE HEADER =================== -->
 
